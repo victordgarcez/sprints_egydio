@@ -47,7 +47,7 @@ Segue o backlog do produto: [Clique aqui](https://github.com/MuriloAugustodesenv
 
 | Sprint   | Período       | Documentação | Objetivo |
 |----------|--------------|--------------|----------|
-| Sprint 1 | 19/08 - 26/08 | [Sprint 1 Docs](https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/tree/main/Documenta%C3%A7%C3%A3o/Sprint1) | Elaboração dos casos de uso |
+| Sprint 1 | 19/08 - 26/08 | [Sprint 1 Docs](https://github.com/victordgarcez/sprints_egydio/blob/main/casosdeuso_img.png) | Elaboração dos casos de uso |
 | Sprint 2 | 26/08 - 09/09 | [Sprint 2 Docs](https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/commit/c1b0a4173f5f6c7e5ea0ef13349c8e9b9b9a6d00) |Elaboração do diagrama de classes
 | Sprint 3 | 02/09 - 09/09 | [Sprint 3 Docs](#) | (A definir) |
 
