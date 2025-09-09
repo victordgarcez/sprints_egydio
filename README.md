@@ -87,4 +87,4 @@ Este projeto foi desenvolvido com dedicação como parte do aprendizado e evolu�
 
 ## 📜 Licença  
 
-MIT © [ Murilo Augusto](https://github.com/MuriloAugustodesenvolvedorbackend) 
+MIT © [Victor D. Garcez](https://github.com/victordgarcez) 
